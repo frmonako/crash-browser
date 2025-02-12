@@ -1,1 +1,1 @@
-# crash-browser
+# html page that crashes most browsers
